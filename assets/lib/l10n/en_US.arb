@@ -1,0 +1,12 @@
+{
+  "@@locale": "en_US",
+  "signInToContinue": "Sign In to Continue",
+  "email": "Email",
+  "enterEmailAddress": "Enter Email Address",
+  "password": "Password",
+  "enterPassword": "Enter Password",
+  "signIn": "Sign In",
+  "haventSignInYet": "Havent Signed In Yet",
+  "signUp": "Sign Up",
+  "here": "Here"
+}

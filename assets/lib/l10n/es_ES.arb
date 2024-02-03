@@ -1,0 +1,13 @@
+{
+    "@@locale": "es_ES",
+    "signInToContinue": "Iniciar sesión para continuar",
+    "email": "Correo electrónico",
+    "enterEmailAddress": "Ingrese la dirección de correo electrónico",
+    "password": "Contraseña",
+    "enterPassword": "Ingrese la contraseña",
+    "signIn": "Iniciar sesión",
+    "haventSignInYet": "Todavía no ha iniciado sesión",
+    "signUp": "Regístrate",
+    "here": "Aquí"
+  }
+  
